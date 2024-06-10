@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/YourUsername/YourBackendRepo.git
+[submodule "frontend/twitterclone"]
+	path = frontend/twitterclone
+	url = https://github.com/YourUsername/YourFrontendRepo.git
